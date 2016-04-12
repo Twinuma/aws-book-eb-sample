@@ -1,0 +1,11 @@
+branch-defaults:
+  default:
+    environment: demo-cli-dev
+    group_suffix: null
+global:
+  application_name: demo-cli
+  default_ec2_keyname: awsbook
+  default_platform: php5.5
+  default_region: ap-northeast-1
+  profile: book
+  sc: null
