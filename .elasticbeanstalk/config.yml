@@ -2,6 +2,8 @@ branch-defaults:
   default:
     environment: demo-cli-dev
     group_suffix: null
+  master:
+    environment: demo-cli-dev
 global:
   application_name: demo-cli
   default_ec2_keyname: awsbook
